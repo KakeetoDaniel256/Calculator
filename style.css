@@ -57,3 +57,7 @@ body {
     color: indigo;
     background-color: indigo;
 }
+
+button:hover {
+    color: red;
+}
